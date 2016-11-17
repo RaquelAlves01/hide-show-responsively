@@ -21,7 +21,8 @@ body {
 }
 
 img {
-  width: 40em;
+  display: inline-block;
+  width: 100%;
 }
 
 @media and screen only (min-width: 25em) {
