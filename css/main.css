@@ -23,14 +23,25 @@ img {
 
 @media and screen only (min-width: 25em) {
 
+  img {
+    display: inline-block;
+  }
 
 }
 
 @media and screen only (min-width: 38em) {
 
+  img {
+    display: inline-block;
+  }
+
+
 }
 
 @media and screen only (min-width: 60em) {
+
+  img {
+    display: inline-block;
   }
 
 }
