@@ -25,6 +25,7 @@ img {
 
   img {
     display: inline-block;
+    width: 50%;
   }
 
 }
@@ -33,6 +34,7 @@ img {
 
   img {
     display: inline-block;
+    width: 100%;
   }
 
 
@@ -42,6 +44,7 @@ img {
 
   img {
     display: inline-block;
+    width: 100%;
   }
 
 }
