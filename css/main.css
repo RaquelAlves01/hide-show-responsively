@@ -17,3 +17,20 @@ html {
 }
 
 
+img {
+  width: 40em;
+}
+
+@media and screen only (min-width: 25em) {
+
+
+}
+
+@media and screen only (min-width: 38em) {
+
+}
+
+@media and screen only (min-width: 60em) {
+  }
+
+}
